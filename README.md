@@ -1,6 +1,6 @@
 # Chrome Cookie Extractor
 
- <img src="https://i.imgur.com/yvxmBDv.png" alt="tool" width="400"/>
+ <img src="https://i.imgur.com/yvxmBDv.png" alt="tool" width="550"/>
  
 ## Features
 - Connects to a running instance of Chrome with remote debugging enabled.
