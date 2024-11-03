@@ -10,10 +10,10 @@
 ## Usage
 Install dependencies
 ```console
-github.com/gorilla/websocket
+go get github.com/gorilla/websocket
 ```
 ```console
-golang.org/x/sys/windows/registry
+go get golang.org/x/sys/windows/registry
 ```
 Run
 ```console
