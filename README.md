@@ -7,6 +7,7 @@ No admin rights required.
  <img src="https://i.imgur.com/yvxmBDv.png" alt="tool" width="550"/>
  
 ## Features
+- Automatically locates browsers paths and user data directories
 - Connects to a running instance of Chrome with remote debugging enabled.
 - Retrieves all cookies from the browser's session.
 - Exports cookies in Netscape format into `cookies.txt`.
