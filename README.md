@@ -1,6 +1,7 @@
 # Chrome Cookie Extractor
 
 This tool bypasses Chrome v20+ app-bound encryption to extract cookies from the selected browser. It leverages Chrome's Remote Debugging capabilities, allowing users to securely retrieve and save their cookies for further use.
+No admin rights required.
 
  <img src="https://i.imgur.com/yvxmBDv.png" alt="tool" width="550"/>
  
